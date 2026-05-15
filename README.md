@@ -48,4 +48,4 @@ margin of -66.39% proving discounting is causing the losses.
 
 
 ## Dashboard
-🔗 [View Live Power BI Dashboard](YOUR_POWER_BI_LINK)
+🔗 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDlmZTdhMDMtZWVhMy00ZGU4LWE1ZDktMmNmZDRmMDlmYTU5IiwidCI6ImI4ZTY4ZTg5LWZiZGMtNDkxYS1iOGMyLWY1Nzk2ZTFhNDBiOSIsImMiOjl9)
