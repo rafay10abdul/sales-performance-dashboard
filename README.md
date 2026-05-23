@@ -9,7 +9,7 @@ hurting profitability, and whether excessive discounting is the root cause.**
 
 
 ## Dataset
- **Source:** [Global Superstore — Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
+ **Source:** [Global Superstore Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
  **Size:** 51,290 orders | 4 years (2011–2014) | 147 countries
 
 
